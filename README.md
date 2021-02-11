@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer, Data Analyst, Project Leader, and Content Writer!!
 
-- 🔭 I'm currently working on something really cool!
+- 🔭 I'm currently working on a bug tracker!
 - 🌱 I’m currently learning about React and TypeScript 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
