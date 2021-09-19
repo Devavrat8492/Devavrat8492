@@ -2,10 +2,10 @@
 
 ## I'm a Full Stack Developer, Data Analyst, Project Leader, and Content Writer!!
 
-- 🔭 I'm currently working on a bug tracker!
+- 🔭 I'm currently working on a Electron Desktop App!
 - 🌱 I’m currently learning React and Node js 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am good at Content Writing and Advertising for websites as well.
 
 ### Connect with me:
