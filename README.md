@@ -27,9 +27,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 <br />
-<br />
 
+### My Badges:
 <img src="https://github.com/prafulla-codes/sorting-hat/blob/master/pics/gryffindor_badge.gif" width="200px"></img>
+
+<br />
 
 [website]: https://devavrat.netlify.app/
 <!-- [course]: 
