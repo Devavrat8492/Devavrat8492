@@ -39,7 +39,7 @@
 [twitter]: 
 [youtube]:  -->
 [Resume]: https://drive.google.com/file/d/1hkPpb75Qv5eFezzwFyXf7TKj6LnotQZW/view?usp=sharing
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/devavrat-sarpotdar-4b2288190
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
